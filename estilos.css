@@ -1,0 +1,17 @@
+.titulo__principal{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    
+}
+.contenedor__primerPost{
+text-align: center;
+width: 70%;
+padding: 1rem;
+border: 1px solid #ddd;
+margin: 0 auto;
+}
+.cabecera{
+    text-align: left;
+    color: blueviolet;
+}
