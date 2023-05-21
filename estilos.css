@@ -12,6 +12,10 @@ border: 1px solid #ddd;
 margin: 0 auto;
 }
 .cabecera{
-    text-align: left;
+    text-align: center;
     color: blueviolet;
+    background-color: bisque;
+    border: 3px solid #ddd;
+    font-weight: bold;
+
 }
